@@ -1,0 +1,3 @@
+[submodule "mySubModule"]
+	path = mySubModule
+	url = https://github.com/guilhermesan/GitSubModuleDependency.git
